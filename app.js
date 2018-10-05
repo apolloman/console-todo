@@ -12,9 +12,7 @@ function init() {
 
   function listTodos() {
     console.log("**********");
-    todos.forEach(function(item, index) {
-      console.log(`${index}: ${item}`);
-    });
+    todos.forEach((item, index) => console.log(`${index}: ${item}`));
     console.log("**********");
   }
 
