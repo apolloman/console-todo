@@ -1,4 +1,4 @@
-// TODO WITH PROMPT 
+// TODO LIST WITH PROMPT 
 
 const todos = [];
 
